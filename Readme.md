@@ -13,7 +13,7 @@ It also skips some advertising from providers home sites, because you'll access 
 
 ### this website is available here
 
-[watch-animes.netlify.app/](watch-animes.netlify.app/)
+[watch-animes.netlify.app/](https://animesitee.netlify.app/)
 
 # screenshots
 ### homepge
